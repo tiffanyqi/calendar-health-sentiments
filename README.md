@@ -5,7 +5,7 @@ Calendar-Health Sentiments
 ## High-level
 - [x] Connect Sentiments API - Google Natural Language API
 - [ ] Connect Fitbit API
-- [ ] Connect Google Calendar API
+- [x] Connect Google Calendar API
 - [ ] Connect D3 / graphing library
 
 ## Data
