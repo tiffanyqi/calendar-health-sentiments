@@ -6,6 +6,7 @@ This project aims to discover how...
 - Mood correlates with heart rate?
 - Mood correlates with diet?
 - Mood correlates with weight?
+- Overall Mood correlates with with sleep?
 
 
 # TODO
@@ -36,7 +37,7 @@ python sentiments.py lib/reviews/bladerunner-mixed.txt
 
 ## Fitbit
 1. Go to the OAuth2.0 tutorial page
-2. Authorize with Client id, Client secret, and a redirect URI (http://tiffanyqi.com)
+2. Authorize with Client id, Client secret, and a redirect URI (https://google.com)
 3. Parse the response
 4. Make the request via Hurl.it
 5. Run health.py, replacing the token with the code
